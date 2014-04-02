@@ -1,7 +1,7 @@
 <idea-plugin version="2">
   <id>de.lauerit.contextrun.plugin</id>
   <name>Context Run</name>
-  <version>1.0</version>
+  <version>0.8</version>
   <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
 
   <description><![CDATA[
